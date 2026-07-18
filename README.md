@@ -22,12 +22,10 @@ A simple Amazon homepage clone built using HTML and CSS as a frontend practice p
 
 ## Project Screenshot
 
+Designed Layout: Designed_one.png
 
-Example:
+Referenced Layout Design: Refernce_One.png
 
-```markdown
-![Amazon Clone](screenshot.png)
-```
 
 ## What I Learned
 
