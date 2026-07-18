@@ -50,4 +50,4 @@ This project was built for learning purposes by following the **Apna College HTM
 
 ## Author
 
-**HAMPI NAGA SOWMYA CHEGONDI**
+**Hampi Naga Sowmya Chegondi**
