@@ -289,3 +289,13 @@ ul p{
     font-size:0.75rem;
     text-align: center;
 }
+
+
+.project-notice {
+    background: #f3f3f3;
+    color: #111;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
